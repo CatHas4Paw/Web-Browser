@@ -1,0 +1,10 @@
+C:\Users\MS-23\Documents\Programme (VS)\C#\Web-Browser\Web-Browser\bin\Debug\Web-Browser.exe.config
+C:\Users\MS-23\Documents\Programme (VS)\C#\Web-Browser\Web-Browser\bin\Debug\Web-Browser.exe
+C:\Users\MS-23\Documents\Programme (VS)\C#\Web-Browser\Web-Browser\bin\Debug\Web-Browser.pdb
+C:\Users\MS-23\Documents\Programme (VS)\C#\Web-Browser\Web-Browser\obj\Debug\Web-Browser.csprojAssemblyReference.cache
+C:\Users\MS-23\Documents\Programme (VS)\C#\Web-Browser\Web-Browser\obj\Debug\Web_Browser.Browser.resources
+C:\Users\MS-23\Documents\Programme (VS)\C#\Web-Browser\Web-Browser\obj\Debug\Web_Browser.Properties.Resources.resources
+C:\Users\MS-23\Documents\Programme (VS)\C#\Web-Browser\Web-Browser\obj\Debug\Web-Browser.csproj.GenerateResource.cache
+C:\Users\MS-23\Documents\Programme (VS)\C#\Web-Browser\Web-Browser\obj\Debug\Web-Browser.csproj.CoreCompileInputs.cache
+C:\Users\MS-23\Documents\Programme (VS)\C#\Web-Browser\Web-Browser\obj\Debug\Web-Browser.exe
+C:\Users\MS-23\Documents\Programme (VS)\C#\Web-Browser\Web-Browser\obj\Debug\Web-Browser.pdb
